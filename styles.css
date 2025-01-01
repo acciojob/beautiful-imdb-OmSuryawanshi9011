@@ -1,2 +1,19 @@
-
-/* Your CSS Code here. */
+.moviePic {
+	height: 500px;
+	width: 350px;
+	opacity: 85%;
+	margin: 100px 100px 10px 100px;
+}
+.movieDetail {
+	position: right;
+	top: 10px;
+	width: 500px;
+	text-align: center;
+	font-size: 20px;
+	font-style: alias;
+	margin: 40px;
+	
+}
+.container {
+	background-color: lightgray
+}
